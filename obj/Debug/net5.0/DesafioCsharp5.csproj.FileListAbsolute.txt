@@ -1,0 +1,16 @@
+/home/raphael/Studying/DesafioCsharp5/DesafioCsharp5/bin/Debug/net5.0/DesafioCsharp5
+/home/raphael/Studying/DesafioCsharp5/DesafioCsharp5/bin/Debug/net5.0/DesafioCsharp5.deps.json
+/home/raphael/Studying/DesafioCsharp5/DesafioCsharp5/bin/Debug/net5.0/DesafioCsharp5.runtimeconfig.json
+/home/raphael/Studying/DesafioCsharp5/DesafioCsharp5/bin/Debug/net5.0/DesafioCsharp5.runtimeconfig.dev.json
+/home/raphael/Studying/DesafioCsharp5/DesafioCsharp5/bin/Debug/net5.0/DesafioCsharp5.dll
+/home/raphael/Studying/DesafioCsharp5/DesafioCsharp5/bin/Debug/net5.0/ref/DesafioCsharp5.dll
+/home/raphael/Studying/DesafioCsharp5/DesafioCsharp5/bin/Debug/net5.0/DesafioCsharp5.pdb
+/home/raphael/Studying/DesafioCsharp5/DesafioCsharp5/obj/Debug/net5.0/DesafioCsharp5.csproj.AssemblyReference.cache
+/home/raphael/Studying/DesafioCsharp5/DesafioCsharp5/obj/Debug/net5.0/DesafioCsharp5.GeneratedMSBuildEditorConfig.editorconfig
+/home/raphael/Studying/DesafioCsharp5/DesafioCsharp5/obj/Debug/net5.0/DesafioCsharp5.AssemblyInfoInputs.cache
+/home/raphael/Studying/DesafioCsharp5/DesafioCsharp5/obj/Debug/net5.0/DesafioCsharp5.AssemblyInfo.cs
+/home/raphael/Studying/DesafioCsharp5/DesafioCsharp5/obj/Debug/net5.0/DesafioCsharp5.csproj.CoreCompileInputs.cache
+/home/raphael/Studying/DesafioCsharp5/DesafioCsharp5/obj/Debug/net5.0/DesafioCsharp5.dll
+/home/raphael/Studying/DesafioCsharp5/DesafioCsharp5/obj/Debug/net5.0/ref/DesafioCsharp5.dll
+/home/raphael/Studying/DesafioCsharp5/DesafioCsharp5/obj/Debug/net5.0/DesafioCsharp5.pdb
+/home/raphael/Studying/DesafioCsharp5/DesafioCsharp5/obj/Debug/net5.0/DesafioCsharp5.genruntimeconfig.cache
